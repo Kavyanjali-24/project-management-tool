@@ -1,12 +1,10 @@
 # Project Management MERN
 
-[Project Management MERN](https://github.com/biswadeep-roy/Project-Management-MERN/raw/main/client/src/assets/images/project-management-mern.png)
-
 This is a comprehensive Project Management system built using the MERN (MongoDB, Express, React, and Node) stack, powered by Bootstrap for the frontend interface. The Project Management MERN repository is a powerful tool for managing your projects, tasks, and teams effectively.
 
 
 
-![project_tracker](https://github.com/biswadeep-roy/Project-Management-MERN/assets/74821633/59a699db-ab0e-4f24-9cc4-cd7a0943d0df)
+
 
 ## Features
 
@@ -89,12 +87,6 @@ Please ensure that your code follows the coding standards and includes relevant 
 
 This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
 
-## Contact
 
-If you have any questions or need further assistance, feel free to contact the project maintainer:
-
-- Biswadeep Roy
-- Email: biswadeeproy1230@gmail.com
-- GitHub: [https://github.com/biswadeep-roy](https://github.com/biswadeep-roy)
 
 Happy Project Management with MERN! 🚀🔧📊
